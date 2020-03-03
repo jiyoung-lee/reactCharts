@@ -1,3 +1,6 @@
+## ReactCharts
+본 프로젝트는 React로 다양한 Chart 만들기 입니다.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
